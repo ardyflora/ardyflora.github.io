@@ -1,4 +1,4 @@
-/**
+f/**
  * =================================================================== 
  *
  *  Kards v1.0 Main Stylesheet
@@ -708,7 +708,7 @@ button.button-primary:focus,
 input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
-	background: #1f1f1f;
+	background: #ff8c00;
 }
 button.full-width, .button.full-width {
 	width: 100%;
